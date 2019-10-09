@@ -1,0 +1,42 @@
+.ui.borderless.topmenu.menu{
+  background-color: #ffffff;
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.grad-background {
+  background: url('https://www.fastfoodpost.com/wp-content/uploads/2019/09/The-Cheesecake-Factory-Welcomes-Back-Pumpkin-Cheesecake-And-Pumpkin-Pecan-Cheesecake-1068x681.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 1000px;
+  padding-top: 100px;
+}
+
+.ui-right-grid-container{
+  color: black;
+}
+.grad-background p {
+  color: white;
+  font-weight: bold;
+  font-size : 500%;
+  padding-top: 400px;
+}
+
+.grad-background p2{
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+
+.grad-background p3{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  padding-left: 1500px;
+}
+
+.footer-background {
+  background-color: #31100a;
+  color: white;
+}
